@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jotai": "^2.6.0",
+    "react-icons": "^4.11.0"
+  }
+}
